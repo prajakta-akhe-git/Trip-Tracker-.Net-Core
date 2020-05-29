@@ -1,2 +1,2 @@
-# Trip-Tracker-.Net-Core
+# Trip-Tracker-DotNet-Core
 Sample Project DotNet Core
